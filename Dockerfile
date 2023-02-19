@@ -1,7 +1,7 @@
 FROM python:3.10
 
 # set work directory
-WORKDIR /usr/src/app
+WORKDIR /usr/src/menu_voting
 
 # set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
